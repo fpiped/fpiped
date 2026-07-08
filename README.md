@@ -11,13 +11,6 @@ I build reliable data platforms, pipelines, and analytics-ready datasets for bus
 - Data modeling and automation
 - Cloud workflows and orchestration
 
-## Stack
-
-**Languages:** Python, SQL, Java, Bash  
-**Data:** Spark, Kafka, MongoDB, BigQuery, Databricks  
-**Cloud & infra:** AWS, Azure, Google Cloud Platform, Terraform, Docker, Kubernetes  
-**Workflow:** Airflow, Git, Jenkins, Ansible
-
 ## Background
 
 I have worked on procurement and ERP data platforms, Databricks lakehouse components, CDC pipelines, streaming ingestion, catalog synchronization, and automated reporting.
