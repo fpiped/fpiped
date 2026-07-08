@@ -15,7 +15,6 @@ I build reliable data platforms, pipelines, and analytics-ready datasets for bus
 
 I have worked on procurement and ERP data platforms, Databricks lakehouse components, CDC pipelines, streaming ingestion, catalog synchronization, and automated reporting.
 
-## Certifications
+## Studies
 
-- MongoDB Certified Associate Data Modeler
-- Google Cloud Professional Data Engineer
+I studied communication, literature, and computational linguistics before moving into data engineering.
