@@ -1,16 +1,15 @@
-# Hi, I'm Filippo
+# Hi, I'm Filippo 👋
 
-Data Engineer based in Milan, Italy. I build data platforms, reliable pipelines, and analytics-ready datasets for business and AI use cases.
+Data Engineer based in Milan, Italy.
 
-I like working close to real-world problems: understanding source systems, modeling data carefully, automating workflows, and leaving behind systems that are simple to operate and maintain.
+I build reliable data platforms, pipelines, and analytics-ready datasets for business and AI use cases.
 
-## What I Work On
+## Focus
 
-- Data platforms and lakehouse architectures
+- Lakehouse architectures and data platforms
 - ETL, ELT, CDC, and streaming pipelines
-- Data modeling for operational and analytical systems
+- Data modeling and automation
 - Cloud workflows and orchestration
-- Automation of complex data processes
 
 ## Stack
 
@@ -21,9 +20,7 @@ I like working close to real-world problems: understanding source systems, model
 
 ## Background
 
-I have worked on data platforms for procurement and ERP data, Databricks lakehouse components, catalog synchronization, CDC pipelines, streaming ingestion, and automated reporting systems.
-
-Before moving into data engineering, I studied communication, literature, and computational linguistics. That background shaped my interest in how information is structured, interpreted, and made useful.
+I have worked on procurement and ERP data platforms, Databricks lakehouse components, CDC pipelines, streaming ingestion, catalog synchronization, and automated reporting.
 
 ## Certifications
 
